@@ -1,1 +1,2 @@
 # Fun-Number-Guessing-Game
+Developed an interactive number guessing game in C, where users try to guess a randomly generated number. Designed an engaging gameplay loop with instant feedback, making it both fun and challenging.
